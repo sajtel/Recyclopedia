@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--SOME OF THIS CODE WAS USED FROM : https://www.11zon.com/zon/android/display-sqlite-data-in-recyclerview.php -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="15dp"
+    android:background="@color/cardview_light_background"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20sp"
+        android:background="@android:drawable/dialog_holo_light_frame"
+        android:padding="15dp"
+        android:text="@string/scrap_description"
+        android:textAlignment="center"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginTop="10dp"
+        android:background="@android:drawable/dialog_holo_light_frame"
+        android:gravity="start"
+        android:padding="15dp"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="#9C0039"
+        android:text="@string/string_back_dialog"
+        android:textColor="@color/cardview_light_background"/>
+
+</LinearLayout>

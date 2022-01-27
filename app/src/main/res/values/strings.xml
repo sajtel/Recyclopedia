@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SFU Recyclopedia</string>
+    <string name="home"> Home </string>
+    <string name="search"> Search </string>
+    <string name="history"> History </string>
+    <string name="settings"> Settings </string>
+    <string name="taskButton">Add Task Button</string>
+    <string name="sign_in_with_sfu">Sign_in_with_SFU</string>
+    <string name="logo">logo</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="click_on_the_button_below_to_create_a_scrap">To post a scrap, please click on the add button below</string>
+    <string name="back_dialog">Back</string>
+    <string name="string_back_dialog">Back</string>
+    <string name="scrap_description">Scrap Description</string>
+    <string name="welcome_prompt1">Hello, Zhe1@sfu.ca</string>
+    <string name="string_welcome_prompt1">Hello, Zhe1@sfu.ca</string>
+    <string name="todo1">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="password1">Password</string>
+    <string name="mac">Mac</string>
+    <string-array name="spinner">
+        <item>Electric</item>
+        <item>Furniture</item>
+        <item>Metallic</item>
+        <item>Paper</item>
+        <item>Plastic</item>
+    </string-array>
+
+</resources>
